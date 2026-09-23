@@ -43,3 +43,12 @@ Ordenadas por impacto × incertidumbre. La primera es la próxima a atacar.
 8. [opportunity: colaboracion-tiempo-real-reuniones] [viability] Los compradores de IT del segmento consideran que concentrar la colaboración de las reuniones dentro de Microsoft 365 justifica pagar más (menos herramientas duplicadas, menos riesgo sobre los datos). *Criterio propuesto de validación (provisional):* si la mayoría de los entrevistados de IT no lo ve como razón de compra, la vía del upgrade se debilita.
 
 *Prioridad propuesta tras `/frame-opportunity` (2026-09-22), sin renumerar para no romper las referencias de las personas a #1 y #3: 7 → 6 → 1 → 2 → 3 → 8 → 4 → 5. Brief: `product/opportunities/2026-09-22-1652-colaboracion-tiempo-real-reuniones.md`.*
+
+*Revisión de evidencia (2026-09-22): solo hay evidencia secundaria [product/research/2026-09-22-1719-colaboracion-tiempo-real-reuniones.md] y sintética (personas). Ninguna creencia cambia de estado. #6 queda promising: la evidencia apoya la dirección, pero la evidencia sintética y la de población general no validan el umbral de 1 hora semanal. #1 y #2 tienen explicaciones rivales documentadas (funciones de facilitación, participantes externos). #8 se inclina hacia "sustituir y ahorrar", no hacia "pagar más". Prioridad sin cambios: 7 → 6 → 1 → 2 → 3 → 8 → 4 → 5.*
+
+## Preguntas abiertas
+
+*Surgidas de la revisión de evidencia del 2026-09-22. Son preguntas, no creencias: no entran en el registro numerado.*
+
+- ¿Qué sub-problema se prioriza: el *durante* la reunión (co-crear, decidir) o el *después* (registrar lo decidido)? En el mercado real, el segundo ya lo cubre la IA de reuniones.
+- ¿Qué tan frecuentes son los participantes externos en las reuniones del segmento? Es una variable nueva que podría explicar la salida a herramientas externas (#1, #2).
